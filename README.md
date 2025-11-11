@@ -114,4 +114,4 @@ CASE 2: LED OFF
 
 ---
 ### RESULT
-Interfacing a digital output with ARM microcontroller is executed and the results are verified.
+Interfacing a digital output with ARM microcontroller is executed and the results are verified..
